@@ -1,9 +1,0 @@
-.env
-.envrc
-.python-version
-*/__pycache__/
-*.egg-info/
-*.csv
-notebooks/
-data/
-__pycache__/
