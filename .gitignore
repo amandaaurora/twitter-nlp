@@ -9,3 +9,5 @@ data/
 __pycache__/
 .tmp.drivedownload/
 .tmp.driveupload/
+.DS_Store
+*.png
