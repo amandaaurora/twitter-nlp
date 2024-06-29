@@ -6,8 +6,8 @@ This repository contains all the notebooks used to support the data preprocessin
 
 1. `01_data_prep`: contains data preparation for X API data extraction to make it suitable for analysis. 
 Contains the removal of PII and content cleanup from non-textual information, such as emoji, repeated words, etc.
-2. `02_analysis` : analysis performed on the dataset sourced from public posts.
-3. `03_Gov_Data`: analysis performed on the dataset sourced from Ministerio de Sanidad's account
+2. `02_analysis` : analysis performed on the dataset sourced from public posts (using `analysis.csv`)
+3. `03_Gov_Data`: data processing and analysis performed on the dataset sourced from Ministerio de Sanidad's account (using `analysis_gobierno.csv`)
 4. `requirements.txt` was generated directly from the Python environment used to develop the codes.
 
 ## Methodology
